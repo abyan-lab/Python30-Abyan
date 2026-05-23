@@ -132,3 +132,60 @@ specific instructions if needed.
 ---
 
 ## 📦 Tech Stack Used Across 30 Days
+
+---
+
+## 🤝 Connect With Me
+
+I documented every single day of this challenge 
+on LinkedIn — the wins, the confusion, and 
+everything in between.
+
+**Abyan Ud Din**
+CS Student 
+Full-Stack Developer · Generative AI Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abyanuddin)
+
+---
+
+<div align="center">
+
+*Built in public. Learned in public. 
+Shared with Pakistan's tech community.*
+
+**#Python30 #PakistanTech #GenerativeAI #100DaysOfCode**
+
+</div>
+
+## 📁 Repository Structure
+Python30-Abyan/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+│
+├── Easy/
+│   ├── Day01_ToDo_List/
+│   │   ├── main.py
+│   │   ├── README.md
+│   │   └── screenshot.png
+│   └── ... (Days 02–10)
+│
+├── Medium/
+│   └── ... (Days 11–22)
+│
+└── Hard/
+└── ... (Days 23–30)
+
+---
+
+## 📈 What I Learned
+
+> I'll update this section on Day 30 with honest 
+> reflections on the full journey.
+
+*Check back July 1, 2026.*
+
+---
