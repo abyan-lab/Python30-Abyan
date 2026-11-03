@@ -1,5 +1,5 @@
 # Python30-Abyan
-30 Python projects in 30 days — Easy to Hard. Built as a public learning challenge by Abyan Ud Din. June–July 2026.
+30 Python projects in 30 days — Easy to Hard. Built as a public learning challenge by Abyan Ud Din. Dec 2026.
 <div align="center">
 
 # 🐍 Python30 — 30 Days, 30 Python Projects
@@ -186,6 +186,5 @@ Python30-Abyan/
 > I'll update this section on Day 30 with honest 
 > reflections on the full journey.
 
-*Check back July 1, 2026.*
 
 ---
