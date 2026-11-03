@@ -13,7 +13,7 @@
 *One project every day. Three difficulty levels. 
 All code public. All lessons shared.*
 
-**Started:** June 2, 2026 | **Completed:** July 1, 2026
+**Started:** 1 Dec, 2026 | **Completed:** Dec 30, 2026
 
 </div>
 
